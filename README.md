@@ -9,7 +9,7 @@ The colorbrewer palettes were created by Prof. Cynthia Brewer at Pennsylvannia S
 ## Install the palletes
 Unpackage the `colorbrewer` folder into your mod directory, located whereever you installed Minetest.
 
-Once installed and activated, the blocks may be called in game through `/giveme colorbrewer:Greens_128` where `Greens` is the name of the palette that you want to use and the numerical value indicates the color level where `1` is the minimum at one end of the color palette, `128` is the middle color, and `256 is the maximum at the other end of the color palette. Although you can call any 8-bit hue, these palettes are meant to be used together with the [csv2terrain](https://github.com/pauldpickell/csv2terrain) mod to map colors to elevations.
+Once installed and activated, the blocks may be called in game through `/giveme colorbrewer:Greens_128` where `Greens` is the name of the palette that you want to use and the numerical value indicates the color level where `1` is the minimum at one end of the color palette, `128` is the middle color, and `256` is the maximum at the other end of the color palette. Although you can call any 8-bit hue, these palettes are meant to be used together with the [csv2terrain](https://github.com/pauldpickell/csv2terrain) mod to map colors to elevations.
 
 ## Screenshots
 ![](/colorbrewer/colorbrewer_screenshot.png)
