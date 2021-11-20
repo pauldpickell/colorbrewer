@@ -4,7 +4,7 @@ A mod for implementing Prof. Cynthia Brewer's [colorbrewer palettes](https://git
 ## Credit
 The colorbrewer palettes were created by Prof. Cynthia Brewer at Pennsylvannia State University and licensed under an Aphache License 2.0. 
 
-[Prof. Paul Pickell](https://github.com/pauldpickell) (University of British Columbia) implemented the palettes in 8-bit (256 colors) as an installedable mod for Minetest. 
+[Prof. Paul Pickell](https://github.com/pauldpickell) (University of British Columbia) implemented the palettes in 8-bit (256 colors) as an installable mod for Minetest. 
 
 ## Install the palletes
 Unpackage the `colorbrewer` folder into your mod directory, located whereever you installed Minetest.
