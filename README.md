@@ -12,6 +12,8 @@ Unpackage the `colorbrewer` folder into your mod directory, located whereever yo
 Once installed and activated, the blocks may be called in game through `/giveme colorbrewer:Greens_128` where `Greens` is the name of the palette that you want to use and the numerical value indicates the color level where `1` is the minimum at one end of the color palette, `128` is the middle color, and `256 is the maximum at the other end of the color palette. Although you can call any 8-bit hue, these palettes are meant to be used together with the [csv2terrain](https://github.com/pauldpickell/csv2terrain) mod to map colors to elevations.
 
 ## Screenshots
+![](/colorbrewer/colorbrewer_screenshot.png)
+![](/colorbrewer/colorbrewer_screenshot2.png)
 ![](/colorbrewer/colorbrewer_BrBG.png)
 ![](/colorbrewer/colorbrewer_PiYG.png)
 ![](/colorbrewer/colorbrewer_PRGn.png)
