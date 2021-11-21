@@ -30,16 +30,16 @@ Registered itemstrings below:
 - `colorbrewer:Greys`
 - `colorbrewer:Oranges`
 - `colorbrewer:OrRd`
-- 'colorbrewer:PuBu`
-- 'colorbrewer:PuBuGn`
-- 'colorbrewer:PuRd`
-- 'colorbrewer:Purples`
-- 'colorbrewer:RdPu`
-- 'colorbrewer:Reds`
-- 'colorbrewer:YlGn`
-- 'colorbrewer:YlGnBu`
-- 'colorbrewer:YlOrBr`
-- 'colorbrewer:YlOrRd`
+- `colorbrewer:PuBu`
+- `colorbrewer:PuBuGn`
+- `colorbrewer:PuRd`
+- `colorbrewer:Purples`
+- `colorbrewer:RdPu`
+- `colorbrewer:Reds`
+- `colorbrewer:YlGn`
+- `colorbrewer:YlGnBu`
+- `colorbrewer:YlOrBr`
+- `colorbrewer:YlOrRd`
 
 ## Screenshots of Palettes
 ![](/colorbrewer_screenshot.png)
