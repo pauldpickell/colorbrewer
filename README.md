@@ -6,7 +6,7 @@ The colorbrewer palettes were created by Prof. Cynthia Brewer at Pennsylvannia S
 
 [Prof. Paul Pickell](https://github.com/pauldpickell) (University of British Columbia) implemented the palettes in 8-bit (256 colors) as an installable mod for Minetest. 
 
-## Install the palletes
+## Install the palettes
 Unpackage the `colorbrewer` folder into your mod directory, located where ever you installed Minetest.
 
 ## Use
